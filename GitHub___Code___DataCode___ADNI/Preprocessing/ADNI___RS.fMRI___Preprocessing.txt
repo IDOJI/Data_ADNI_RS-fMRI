@@ -1,0 +1,2 @@
+# 새로운 subject 리스트에 맞춰서 폴더이름, Sub 넘버링 전부 바꾸기
+ADNI___RS.fMRI___Preprocessing___2nd___Renaming.Sub.Folders.by.New.Subjects.List.Filename.and.Sub.Numbering

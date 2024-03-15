@@ -1,0 +1,4 @@
+# DPABI Results 폴더에서 ReHo 결과 추출
+ADNI___RS.fMRI___Regional.Homogeniety___Extracting.ReHo.From.Results.Folders
+
+

@@ -1,0 +1,55 @@
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+🟩 Voxelwise
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+🟧 각 Sub 폴더 별 Voxelwise BOLD Signals 
+ADNI___RS.fMRI___BOLD.Signals___Voxelwise___AAL3___Extract.Signals.For.Each.Sub.Folders
+
+
+🟧추출된 복셀들의 Coordinates이 동일한지 확인
+ADNI___RS.fMRI___BOLD.Signals___Voxelwise___AAL3___Check.Coordinates.Result
+
+
+🟧ROI BOLD signals과 일치하지 않아서 다시 전처리 해야 하는 개체들에 대해 전처리 전 불필요한 파일들 삭제
+- 이후 : Normalization pictures 체크
+- 이후 : Timepoints 개수 체크
+- 이후 : Check Zero timepoints for ROI signals
+ADNI___RS.fMRI___BOLD.Signals___Voxelwise___AAL3___Extract.Signals.For.Each.Sub.Folders___Handling.Discordant.BOLD.Signals
+
+
+
+🟧지정된 path에서의 subject들의 Results 폴더에서 BOLD 시그널을 추출하기
+ADNI___RS.fMRI___BOLD.Signals___ROI___AAL3___Extracting.ROI.BOLD.Signals.From.Results.Folders
+
+
+
+🟧
+BOLD.Signals___AAL3___Which.Subjects.Voxelwise.BOLD.Signals.Have.Not.Yet.Been.Extracted
+
+
+
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+🟩 ROI
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+🟧 Timepoints 개수 확인
+ADNI___RS.fMRI___BOLD.Signals___ROI___AAL3___Check.The.Number.of.Timepoints
+
+ 
+🟧 ROI BOLD 표준화
+ADNI___RS.fMRI___BOLD.Signals___ROI___AAL3___Standardize.ROI.BOLD.Signals
+
+
+
+
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+🟩 ROI - FDA
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+ADNI___RS.fMRI___BOLD.Signals___ROI___AAL3___FDA___SB___1.Cutting.Timepoints
+ADNI___RS.fMRI___BOLD.Signals___ROI___AAL3___FDA___SB___2.Combining.by.ROI
+ADNI___RS.fMRI___BOLD.Signals___ROI___AAL3___FDA___SB___3.Smoothing.by.Bspline
+ADNI___RS.fMRI___BOLD.Signals___ROI___AAL3___FDA___SB___4.FPCA
+
+
+
+
+
+

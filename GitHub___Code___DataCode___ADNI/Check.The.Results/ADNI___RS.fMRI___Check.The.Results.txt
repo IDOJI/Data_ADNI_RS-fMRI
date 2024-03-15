@@ -1,0 +1,33 @@
+# Subject 리스트에는 없지만 Sub 폴더에는 있는 RID 찾기
+ADNI___RS.fMRI___Check.The.Results___Check.RID.To.Exclude
+
+# Results를 모은 폴더에서 RID를 기준으로 리스트에 있지만, Results 추출은 안 된 RID 체크
+ADNI___RS.fMRI___Subjects.Lists___Check.Subjects.Lists.Not.Included
+
+
+# 각 Manufacturer 별로 RID는 같지만 Image ID 등의 차이로 다른 폴더에 있는 RID들을 체크
+ADNI___RS.fMRI___Subjects.Lists___Check.Duplicated.RID
+
+
+# Manufacturer 종류에 따라 Sub 폴더들의 RID와 Subjects list의 RID 개수 비교
+ADNI___RS.fMRI___Subjects.Lists___Check.The.Number.of.Sub.Folders
+
+
+# 각 RID 폴더 별로 계산되지 않은 Results가 존재하는지 확인
+ADNI___RS.fMRI___Check.The.Results___Find.RID.with.Not.Calculated.Results
+
+
+#(완료) ROI BOLD Signal에서 Zero timepoints 확인
+ADNI___RS.fMRI___Check.The.Results___Check.Zero.Timepoints.on.ROI
+
+
+# Timepoints 개수 확인
+ADNI___RS.fMRI___Check.The.Results___Check.The.Number.of.Timepoints
+
+
+# Normalization Pictures 확인
+ADNI___RS.fMRI___Check.The.Results___Check.Normalization.Pictures
+
+
+
+
